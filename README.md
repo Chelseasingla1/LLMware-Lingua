@@ -31,7 +31,7 @@ Welcome to the LLMware-Lingua, an interactive chat application powered by advanc
 
 ## Video Demo
 
-[![Video Demo]([https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0](https://github.com/Chelseasingla1/LLMware-Lingua/assets/129886894/4c023a35-e722-4427-b9ae-c96375bd75bc.jpg)](https://www.youtube.com/watch?v=gKHLOicU0yo)
+[![Video Demo](https://img.youtube.com/vi/gKHLOicU0yo/0.jpg)](https://www.youtube.com/watch?v=gKHLOicU0yo)
 
 
 Video:
