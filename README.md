@@ -32,10 +32,12 @@ Welcome to the LLMware-Lingua, an interactive chat application powered by advanc
 Web page:
 ![image](https://github.com/Chelseasingla1/LLMware-Lingua/assets/129886894/4c023a35-e722-4427-b9ae-c96375bd75bc)
 
-Options for modes:
+Options for models:
+
 ![image](https://github.com/Chelseasingla1/LLMware-Lingua/assets/129886894/83b70039-9738-48e8-aac9-7fae0200f9f7)
 
 Options for voice:
+
 ![image](https://github.com/Chelseasingla1/LLMware-Lingua/assets/129886894/996cd1bd-cf6a-43bc-b4fc-69f8b98b68fc)
 
 One can fetch the data uploaded in it from wav files via chat and ask questions from it:
@@ -57,7 +59,7 @@ Here is all the information on terminal:
 
 1. Clone the repository:
    ```
-   git clone [repository_url]
+   git clone https://github.com/Chelseasingla1/LLMware-Lingua.git
    ```
 
 2. Install dependencies:
