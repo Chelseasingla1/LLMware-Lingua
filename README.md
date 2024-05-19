@@ -75,17 +75,12 @@ Welcome to the LLMware-Lingua, an interactive chat application powered by advanc
 
 Contributions to the LLMware Chat Assistant project are welcome! Feel free to submit bug reports, feature requests, or pull requests on GitHub.
 
----
-
-**License:**
-
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
 **Author:**
 
-[Chelsea]
+Chelsea
 
 ---
 
@@ -97,4 +92,4 @@ Special thanks to the developers of LLMware and Streamlit for their contribution
 
 **Contact:**
 
-For inquiries, reach out to [chelseasingla123@gmail.com].
+For inquiries, reach out to chelseasingla123@gmail.com.
